@@ -1,0 +1,8 @@
+
+ ====      NOTA LAUNDRY     ==== 
+	atas nama   = aiyya
+	berat       = 3.0
+	Paket kilat = 12000.0
+==================================
+=== nota jangan sampai hilang  ===
+==================================
